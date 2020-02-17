@@ -26,9 +26,9 @@ a {
   text-decoration: none;
 }
 
-a:focus {
+/* a:focus {
   outline: none !important;
-}
+} */
 
 form {
   background-color: rgba(255, 255, 255, .7);
@@ -42,9 +42,9 @@ input[type="text"], input[type="number"], textarea {
   width: 100%;
 }
 
-input:focus {
+/* input:focus {
   outline: none!important;
-}
+} */
 
 button {
   background-color: #333333;
@@ -133,6 +133,7 @@ h4 {
 
 .footer {
   background-color: #ffcccc;
+  color: black;
   padding: 20px 0;
   text-align: center;
   height: 50px;
